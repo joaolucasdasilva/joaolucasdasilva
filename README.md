@@ -4,7 +4,7 @@
 )](https://instagram.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-570088291/)
 
-![joaolucasdasilva GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucasdasilva&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasdasilva&layout=compact)](https://github.com/joaolucasdasilva/github-readme-stats)
 <div>
 <h2>Tecnologias do meu dia </h1>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
