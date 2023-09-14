@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Lucas! 👋🏻
+<h2>Olá! Eu sou o João Lucas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com)
