@@ -1,7 +1,7 @@
 <h2>Olá! Eu sou o João Lucas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/carneirojoaolucasdasilva/) 
+)](https://instagram.com/lucasjoao.__/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-570088291/)
 
 ![joaolucasdasilva GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucasdasilva&show_icons=true&theme=radical) 
